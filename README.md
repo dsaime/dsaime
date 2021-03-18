@@ -5,5 +5,5 @@
 _____
 #### My favorites:    
 Programming language: - _Java_
-[![Java](https://img.shields.io/badge/-java-489EEB?logo=java&style=flat-square&logocolor=white)](https://google.com/)
+[![VK](https://img.shields.io/badge/-vk-489EEB?logo=vk&style=flat-square&logocolor=white)](https://saime0)
 
