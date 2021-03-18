@@ -6,5 +6,5 @@ _____
 ##### My favorites:    
 Programming language: - _Java_    
 ##### My person:    
-VKontakte - [![VK](https://img.shields.io/badge/-vk-489EEB?logo=vk&style=flat-square&logocolor=white)](https://vk.com/saime0)
+VKontakte - [vk](https://vk.com/saime0)
 
