@@ -4,7 +4,5 @@
 Сейчас я изучаю язык программирования Java. 
 _____
 #### My favorites:    
-Programming language: - 
-Java    
-[![Java](https://img.shields.io/badge/-java-489EEB?logo=java&style=flat-square&logocolor=white)](https://google.com/)
+Programming language: - [![Java](https://img.shields.io/badge/-java-489EEB?logo=java&style=flat-square&logocolor=white)](https://google.com/)
 
