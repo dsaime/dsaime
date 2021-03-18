@@ -4,6 +4,6 @@
 Сейчас я изучаю язык программирования Java. 
 _____
 #### My favorites:    
-Programming language: - _Java_
-[![VK](https://img.shields.io/badge/-vk-489EEB?logo=vk&style=flat-square&logocolor=white)](https://saime0)
+Programming language: - _Java_    
+[![VK](https://img.shields.io/badge/-vk-489EEB?logo=vk&style=flat-square&logocolor=white)](https://vk.com/saime0)
 
