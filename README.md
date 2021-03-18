@@ -4,11 +4,7 @@
 Сейчас я изучаю язык программирования Java. 
 _____
 ##### > My favorites:    
-```
 Programming language: - _Java_    
-```
 ##### > My person:    
-```
 VKontakte - [saime0](https://vk.com/saime0)
-```
 
