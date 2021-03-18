@@ -6,5 +6,5 @@ _____
 ##### My favorites:    
 Programming language: - _Java_    
 ##### My person:    
-VKontakte - [vk](https://vk.com/saime0)
+VKontakte - [Saime](https://vk.com/saime0)
 
