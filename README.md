@@ -6,7 +6,7 @@ _____
 ##### > My favorites:    
 Programming language: - _Java_    
 IDE - _IntelliJ IDEA_    
-Color theme - _Arc Dark(*fork*)_
+Color theme - _Arc Dark(*fork*)_    
 Code editor - _Visual Studio Code_
 
 ##### > My person:    
