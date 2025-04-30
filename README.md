@@ -4,6 +4,6 @@
 
 Иногда люблю покопаться в linux и сделать свою рабочую систему удобней, кстати я использую [arch](https://archlinux.org/), и [\*здесь\*](https://github.com/dsaime/config2) храню конфигурацию и скрипты автоустановки. 
 
-- Интересуюсь архитектурой ПО.
+Ещё я интересуюсь архитектурой ПО.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaime&layout=compact&theme=dark)
