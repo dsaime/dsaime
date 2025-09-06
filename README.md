@@ -1,12 +1,52 @@
-Занимаюсь разработкой серверной части интернет-сервисов на [golang](https://go.dev/).
 
-Если нужен GUI, могу создать мобильное приложение на [compose](https://developer.android.com/compose), кстати этот навык также подкреплен коммерческим опытом.
+### 🔨😁 Технический стэк
 
-Иногда люблю покопаться в linux и сделать свою рабочую систему удобней, кстати я использую [arch](https://archlinux.org/), и [\*здесь\*](https://github.com/dsaime/config2) храню конфигурацию и скрипты автоустановки. 
+**ЯП**
+<details>
+  <summary>Golang 1.23</summary>
 
-Ещё я интересуюсь архитектурой ПО.
+  - nullism/bqb
+  - jmoiron/sqlx
+  - gofiber/fiber
+  - rabbitmq/amqp091-go
+  - redis/go-redis
+  - grpc
+  - protobuf
+  - urfave/cli
+  - testcontainers/testcontainers-go
+  - PaulSonOfLars/gotgbot
+  - jinzhu/gorm (v1)
+</details>
+<details>
+  <summary>Kotlin 1.8</summary>
+
+  - Compose
+  - Coil
+  - Viewmodel
+  - Retrifit2
+  - Coroutines
+  - Okhttp3
+</details>
+
+**Базы данных**
+- MySQL, SQLite, PostgreSQL
+- Redis
+- RabbitMQ
+
+**DevOps**
+- Bash
+- Grafana, Loki, Prometheus
+- Sentry
+- Docker, Podman
+- GitHub Actions
+
+### Контакты
+- Vk: [@dsaime](https://vk.ru/dsaime)
+- Telegram: [@dsaime](https://t.me/dsaime)
+- Steam: [@dsaime](https://steamcommunity.com/id/dsaime)
+
+### Интересы
+- 👨‍💻 Бакендинг (Back-end development)
+- 🎵 Пианиниг (Play piano)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaime&layout=compact&theme=dark)
-
-Нашел [коммент](https://www.reddit.com/r/ansible/comments/lxclud/comment/gpmm8ai/?tl=ru&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), слова из которого можно взять за правило:
-> Когда мне нужно выбрать, как что-то сделать, я всегда спрашиваю: "Что об этом подумает тот парень/девушка, который будет после меня?"
