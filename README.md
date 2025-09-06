@@ -11,9 +11,7 @@
     </td>
   </tr>
 </table>
-<div align="center">
-  <img src="https://i.ibb.co/zVr5xGt3/8949094online-video-cutter-com-ezgif-com-optimize.gif" width="250" height="250"/>
-</div>
+<img src="https://i.ibb.co/XZ1NDWB7/8949094online-video-cutter-com-ezgif-com-resize.gif" width="400" height="400"/>
 
 ### 🔨😁 Технический стэк
 
