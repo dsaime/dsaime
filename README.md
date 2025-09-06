@@ -8,6 +8,8 @@
     <td>
           <a href="https://github.com/nice-pea/npchat">Npchat</a> &mdash; 
           Мессенджер на Go<br/>
+          <a href="https://github.com/dsaime/tg-bot-contest">tg-bot-contest</a> &mdash; 
+          Бот для проведения конкурсов в телеграм<br/>
     </td>
   </tr>
 </table>
