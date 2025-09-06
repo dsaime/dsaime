@@ -19,27 +19,27 @@
 <details>
   <summary>Golang 1.23</summary>
 
-  - nullism/bqb
-  - jmoiron/sqlx
-  - gofiber/fiber
-  - rabbitmq/amqp091-go
-  - redis/go-redis
-  - grpc
-  - protobuf
-  - urfave/cli
-  - testcontainers/testcontainers-go
-  - PaulSonOfLars/gotgbot
-  - jinzhu/gorm (v1)
+  - [nullism/bqb](https://github.com/nullism/bqb)
+  - [jmoiron/sqlx](https://github.com/jmoiron/sqlx)
+  - [gofiber/fiber](https://github.com/gofiber/fiber)
+  - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go )
+  - [redis/go-redis](https://github.com/redis/go-redis )
+  - [grpc/grpc-go](https://github.com/grpc/grpc-go )
+  - [protocolbuffers/protobuf-go](https://github.com/protocolbuffers/protobuf-go )
+  - [urfave/cli](https://github.com/urfave/cli )
+  - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go )
+  - [PaulSonOfLars/gotgbot](https://github.com/PaulSonOfLars/gotgbot )
+  - [jinzhu/gorm (v1)](https://github.com/jinzhu/gorm )
 </details>
 <details>
   <summary>Kotlin 1.8</summary>
 
-  - Compose
-  - Coil
-  - Viewmodel
-  - Retrifit2
-  - Coroutines
-  - Okhttp3
+  - [Compose](https://developer.android.com/compose)
+  - [Coil](https://github.com/coil-kt/coil)
+  - [Viewmodel](https://developer.android.com/topic/libraries/architecture/viewmodel)
+  - [Retrifit2](https://square.github.io/retrofit/)
+  - [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html)
+  - [Okhttp3](https://square.github.io/okhttp/)
 </details>
 
 **Базы данных**
