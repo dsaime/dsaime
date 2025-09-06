@@ -12,6 +12,12 @@
   </tr>
 </table>
 
+<div id="header" align="center">
+  <img src="https://i.ibb.co/zVr5xGt3/8949094online-video-cutter-com-ezgif-com-optimize.gif" width="250" height="250"/>
+</div>
+
+
+
 ### 🔨😁 Технический стэк
 
 **ЯП**
