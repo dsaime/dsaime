@@ -49,8 +49,7 @@
 
 **DevOps**
 - Bash
-- Grafana, Loki, Prometheus
-- Sentry
+- Grafana, Loki, Prometheus, Sentry
 - Docker, Podman
 - GitHub Actions
 
