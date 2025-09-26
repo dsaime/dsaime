@@ -13,7 +13,8 @@
     </td>
   </tr>
 </table>
-<img src="https://i.ibb.co/9HtJZ3Tb/cat.gif" width="400" height="400"/>
+
+<img src="https://i.ibb.co/nqTNGDsy/cat-optimized3.gif" width="100"/>
 
 ### 🔨😁 Технический стэк
 
