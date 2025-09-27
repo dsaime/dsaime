@@ -56,6 +56,11 @@
 - Docker, Podman
 - GitHub Actions
 
+**Подзаголовок**
+- Github projects
+- Drawio
+- Figma
+
 ### Контакты
 - Vk: [@dsaime](https://vk.ru/dsaime)
 - Telegram: [@dsaime](https://t.me/dsaime)
