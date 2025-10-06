@@ -73,6 +73,6 @@
 - Разделять предметную область на домены
 - Проектирование связей и контрактов в микросервисной архитектуре
 - Музицирование на фортепиано 
-- Автоматизация инфраструктуры через Ansible, Terraform, Helm (IaC, GitOps)
+- Автоматизация инфраструктуры
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaime&layout=compact&theme=dark)
