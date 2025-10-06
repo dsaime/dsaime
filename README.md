@@ -15,6 +15,7 @@
 </table>
 
 <img src="https://i.ibb.co/nqTNGDsy/cat-optimized3.gif" width="100"/>
+<a href="https://dsaime.ru/resume.html">Резюме</a>
 
 ### 🔨😁 Технический стэк
 
