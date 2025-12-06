@@ -55,10 +55,10 @@
 - Bash
 - Grafana, Loki, Prometheus, Sentry
 - Docker, Podman
-- GitHub Actions
+- GitHub Actions, Ansible
 
 **Подзаголовок**
-- Github projects
+- Github projects, Youtrack
 - Drawio
 - Figma
 
