@@ -1,8 +1,7 @@
 <a href="https://dsaime.ru/resume.html">Резюме</a>
 
-### 🔨😁 Технический стэк
+### 🔨😁
 
-**ЯП**
 <details>
   <summary>Golang 1.23</summary>
 
