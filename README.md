@@ -1,20 +1,3 @@
-### Мои проекты и вклады в сообщество
-
-<table>
-  <tr>
-    <th width="500px">Интернет сервисы</th>
-  </tr>
-  <tr>
-    <td>
-          <a href="https://github.com/nice-pea/npchat">Npchat</a> &mdash; 
-          Мессенджер на Go<br/>
-          <a href="https://github.com/dsaime/tg-bot-contest">tg-bot-contest</a> &mdash; 
-          Бот для проведения конкурсов в телеграм<br/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://i.ibb.co/nqTNGDsy/cat-optimized3.gif" width="100"/>
 <a href="https://dsaime.ru/resume.html">Резюме</a>
 
 ### 🔨😁 Технический стэк
@@ -46,34 +29,10 @@
   - [Okhttp3](https://square.github.io/okhttp/)
 </details>
 
-**Базы данных**
-- MySQL, SQLite, PostgreSQL
-- Redis
-- RabbitMQ
-
-**DevOps**
-- Bash
-- Grafana, Loki, Prometheus, Sentry
-- Docker, Podman
-- GitHub Actions, Ansible
-
-**Подзаголовок**
-- Github projects, Youtrack
-- Drawio
-- Figma
 
 ### Контакты
 - Vk: [@dsaime](https://vk.ru/dsaime)
 - Telegram: [@dsaime](https://t.me/dsaime)
 - Steam: [@dsaime](https://steamcommunity.com/id/dsaime)
-
-### Интересы
-- Работа в команде
-- Участие в написании кода
-- Структурированный подход к выполению задач
-- Разделять предметную область на домены
-- Проектирование связей и контрактов в микросервисной архитектуре
-- Музицирование на фортепиано 
-- Автоматизация инфраструктуры
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaime&layout=compact&theme=dark)
